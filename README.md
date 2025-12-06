@@ -1,2 +1,2 @@
-# ALSImpasugong
-ALSwebsite
+# ALSWebsite
+A Website for ALS
